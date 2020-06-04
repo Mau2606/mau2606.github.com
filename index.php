@@ -9,6 +9,6 @@
   </body>
 </html>-->
 <?php
-  header('Location: https://mau2606.github.io/marziarry/');
+  header('Location: https://mau2606.github.io/marziarry/',true,301);
   die();
  ?>
